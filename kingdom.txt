@@ -12,4 +12,5 @@ killlll
 mon
 forest
 hunting
-
+did
+pull

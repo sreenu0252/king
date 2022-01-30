@@ -12,4 +12,4 @@ killlll
 mon
 forest
 hunting
-
+easy
